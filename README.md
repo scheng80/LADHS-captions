@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for DHS Developers
 
 - Class Date: January 25 - 26, 2022
 - Facilitator: @andrew-scoppa
